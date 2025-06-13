@@ -1,0 +1,22 @@
+{
+  "name": "italian-learning-app",
+  "version": "1.0.0",
+  "description": "Application d'apprentissage rapide de l'italien pour francophones",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.3.0",
+    "vue-router": "^4.2.0",
+    "pinia": "^2.1.0",
+    "howler": "^2.2.3",
+    "@pinia/nuxt": "^0.4.11"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "vue-template-compiler": "^2.7.0"
+  }
+}
